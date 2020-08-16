@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,EACE,SAAU,CACV,QAAS,CACT,qBACF,CAEA,sCACE,YAAa,CACb,eAAgB,CAChB,gBACF","file":"main.0dd23809.chunk.css","sourcesContent":["*{\r\n  padding: 0;\r\n  margin: 0;\r\n  box-sizing: border-box;\r\n}\r\n\r\nbutton, input, button:focus, input:focus{\r\n  outline: none;\r\n  box-shadow: none;\r\n  text-shadow: none;\r\n}"]}
